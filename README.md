@@ -11,6 +11,7 @@ UML Diagram:
 ![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/3feeaa2c-493a-4733-ba43-d5c2215a2198)
 ![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/7bf918fa-460f-4241-acd8-f47647297f07)
 ![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/d857af58-c24d-4023-84df-e4811dfed64f) 
-![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/3319dd37-46e6-4cd5-9db0-270665aa87f1)
+![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/2b488fc7-6752-4062-9cf0-b7bd746d8315)
 ![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/1260f882-626a-44e8-8c56-a181c1841766) 
-![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/55c73fd6-7b65-4aa9-837e-19aafbc8193f)
+![image](https://github.com/aa05420/Chulbul-Panda-/assets/62726090/186bc5ed-457d-4dc3-9e1a-b67ddf8e1588)
+
