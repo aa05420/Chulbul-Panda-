@@ -1,7 +1,13 @@
 # Chulbul-Panda-
 Project Description:
 
-Our project name is “Chul Bul Panda”, a fighting game inspired and featuring Kung Fu Panda. There will be a total of three levels, in each level the Panda has to fight a specified enemy for that level (Tai lung, Wolf, Kai). There will be a life bar that will show the life of the panda and his enemy. Every on-point move by a player decreases the life of the opposite player. The decrease would depend on the type of move and its accuracy. To attain a bonus, the Panda has to collect the food (dumpling, noodles, and ramen for each respective level) that appears on the screen now and then. By collecting the food the panda has the power to perform a power move that decreases the life of the enemy significantly. Once the life bar, of any player, finishes that player loses. If the panda wins the level he proceeds to the next level until all three levels are cleared and he wins the game.
+Our project, "Chul Bul Panda," is an action-packed fighting game that takes inspiration from the beloved Kung Fu Panda franchise. The game features three challenging levels, each pitting the Panda against a formidable enemy (Tai Lung, Wolf, and Kai) specific to that level.
+
+Players will engage in intense combat, with both the Panda and the enemy having a life bar to indicate their health. Skillfully executed moves by either player will gradually decrease the opponent's life. The effectiveness of each move and its accuracy will determine the amount of damage inflicted.
+
+To gain an advantage, the Panda must collect food items (dumplings, noodles, and ramen) that periodically appear on the screen. Gathering these food items empowers the Panda to unleash devastating power moves, significantly reducing the enemy's life.
+
+The game continues until one player's life bar is depleted, resulting in their defeat. If the Panda emerges victorious, he advances to the next level, progressively facing tougher challenges. The ultimate objective is to conquer all three levels, emerging as the triumphant champion of the game
 
 
 UML Diagram:
